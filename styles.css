@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-size: 24px;
+    font-family: 'Open sans', cursive;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url("https://res.cloudinary.com/augani/image/upload/v1626137064/Sample_33.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+  /* width */
+::-webkit-scrollbar {
+    width: 0.2rem;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 0.2rem;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(224, 223, 223);
+    border-radius: 0.1rem;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(207, 205, 205);
+  }

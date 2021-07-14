@@ -117,7 +117,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Alfred_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Alfred_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Alfred",
     "skinTone": "Black",
@@ -291,7 +291,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Alfred_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Alfred_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Alfred",
     "skinTone": "White",
@@ -465,7 +465,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Chris_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Chris_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Chris",
     "skinTone": "Black",
@@ -639,7 +639,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Chris_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Chris_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Chris",
     "skinTone": "White",
@@ -813,7 +813,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Donald_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Donald_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Donald",
     "skinTone": "Black",
@@ -987,7 +987,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Donald_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Donald_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Donald",
     "skinTone": "White",
@@ -1161,7 +1161,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Ed_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Ed_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Ed",
     "skinTone": "Black",
@@ -1335,7 +1335,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Ed_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Ed_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Ed",
     "skinTone": "White",
@@ -1509,7 +1509,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Francis_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Francis_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Francis",
     "skinTone": "Black",
@@ -1683,7 +1683,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Francis_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Francis_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Francis",
     "skinTone": "White",
@@ -1857,7 +1857,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_George_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_George_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "George",
     "skinTone": "Black",
@@ -2031,7 +2031,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_George_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_George_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "George",
     "skinTone": "White",
@@ -2205,7 +2205,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_John_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_John_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "John",
     "skinTone": "Black",
@@ -2379,7 +2379,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_John_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_John_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "John",
     "skinTone": "White",
@@ -2553,7 +2553,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Justin_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Justin_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Justin",
     "skinTone": "Black",
@@ -2727,7 +2727,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Justin_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Justin_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Justin",
     "skinTone": "White",
@@ -2901,7 +2901,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Karim_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Karim_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Karim",
     "skinTone": "Black",
@@ -3075,7 +3075,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Karim_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Karim_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Karim",
     "skinTone": "White",
@@ -3249,7 +3249,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Krishna_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Krishna_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Krishna",
     "skinTone": "Black",
@@ -3423,7 +3423,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Krishna_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Krishna_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Krishna",
     "skinTone": "White",
@@ -3597,7 +3597,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Mattew_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Mattew_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Mattew",
     "skinTone": "Black",
@@ -3771,7 +3771,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Mattew_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Mattew_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Mattew",
     "skinTone": "White",
@@ -3945,7 +3945,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Michael_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Michael_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Michael",
     "skinTone": "Black",
@@ -4119,7 +4119,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Michael_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Michael_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Michael",
     "skinTone": "White",
@@ -4293,7 +4293,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Salman_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Salman_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Salman",
     "skinTone": "Black",
@@ -4467,7 +4467,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Salman_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Salman_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Salman",
     "skinTone": "White",
@@ -4641,7 +4641,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Usman_Skin_Tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Usman_Skin_Tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Usman",
     "skinTone": "Black",
@@ -4815,7 +4815,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "male",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Usman_Skin_Tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626113288/mems-png/Person_Usman_Skin_Tone_White_Posture_27_Sh.png"
 }, {
     "person": "Usman",
     "skinTone": "White",
@@ -4989,7 +4989,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Angela_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Angela_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Angela",
     "skinTone": "Black",
@@ -5163,7 +5163,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Angela_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Angela_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Angela",
     "skinTone": "White",
@@ -5337,7 +5337,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ariana_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ariana_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Ariana",
     "skinTone": "Black",
@@ -5511,7 +5511,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ariana_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ariana_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Ariana",
     "skinTone": "White",
@@ -5685,7 +5685,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Darlene_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Darlene_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Darlene",
     "skinTone": "Black",
@@ -5859,7 +5859,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Darlene_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Darlene_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Darlene",
     "skinTone": "White",
@@ -6033,7 +6033,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ezra_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ezra_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Ezra",
     "skinTone": "Black",
@@ -6207,7 +6207,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ezra_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ezra_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Ezra",
     "skinTone": "White",
@@ -6381,7 +6381,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Helen_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Helen_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Helen",
     "skinTone": "Black",
@@ -6555,7 +6555,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Helen_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Helen_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Helen",
     "skinTone": "White",
@@ -6729,7 +6729,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ishanvi_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ishanvi_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Ishanvi",
     "skinTone": "Black",
@@ -6903,7 +6903,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ishanvi_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Ishanvi_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Ishanvi",
     "skinTone": "White",
@@ -7077,7 +7077,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Jeniffer_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Jeniffer_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Jeniffer",
     "skinTone": "Black",
@@ -7251,7 +7251,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Jeniffer_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Jeniffer_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Jeniffer",
     "skinTone": "White",
@@ -7425,7 +7425,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kate_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kate_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Kate",
     "skinTone": "Black",
@@ -7599,7 +7599,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kate_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kate_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Kate",
     "skinTone": "White",
@@ -7773,7 +7773,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kim_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kim_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Kim",
     "skinTone": "Black",
@@ -7947,7 +7947,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kim_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kim_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Kim",
     "skinTone": "White",
@@ -8121,7 +8121,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kulthum_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kulthum_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Kulthum",
     "skinTone": "Black",
@@ -8295,7 +8295,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kulthum_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Kulthum_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Kulthum",
     "skinTone": "White",
@@ -8469,7 +8469,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Mary_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Mary_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Mary",
     "skinTone": "Black",
@@ -8643,7 +8643,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Mary_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Mary_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Mary",
     "skinTone": "White",
@@ -8817,7 +8817,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Monica_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Monica_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Monica",
     "skinTone": "Black",
@@ -8991,7 +8991,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Monica_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Monica_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Monica",
     "skinTone": "White",
@@ -9165,7 +9165,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Priyanka_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Priyanka_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Priyanka",
     "skinTone": "Black",
@@ -9339,7 +9339,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Priyanka_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Priyanka_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Priyanka",
     "skinTone": "White",
@@ -9513,7 +9513,7 @@ const data = [{
     "skinTone": "Black",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Rosa_Skin_tone_Black_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Rosa_Skin_tone_Black_Posture_27_Sh.png"
 }, {
     "person": "Rosa",
     "skinTone": "Black",
@@ -9687,7 +9687,7 @@ const data = [{
     "skinTone": "White",
     "emotion": "Sh!",
     "gender": "female",
-    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Rosa_Skin_tone_White_Posture_27_Sh!.png"
+    "url": "https://res.cloudinary.com/augani/image/upload/v1626118781/mems-png/Character_Rosa_Skin_tone_White_Posture_27_Sh.png"
 }, {
     "person": "Rosa",
     "skinTone": "White",
