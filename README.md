@@ -1,29 +1,55 @@
-# Next.js + Tailwind CSS Example
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="Memojis" />
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+  &#xa0;
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+  <!-- <a href="https://memojis.netlify.app">Demo</a> -->
+</div>
 
-## Preview
+<h1 align="center">Memojis</h1>
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/augani/mem-repo?color=56BEB8">
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/augani/mem-repo?color=56BEB8">
 
-## Deploy your own
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/augani/mem-repo?color=56BEB8">
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+  <img alt="License" src="https://img.shields.io/github/license/augani/mem-repo?color=56BEB8">
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+</p>
 
-## How to use
+<!-- Status -->
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+<!-- <h4 align="center"> 
+	🚧  Memojis 🚀 Under construction...  🚧
+</h4> 
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+<hr> -->
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/augani" target="_blank">Author</a>
+</p>
+
+<br>
+
+## :dart: About ##
+
+Over 2000 memojis for your next project
+
+# Live 
+
+[View here](https://mem-repo.vercel.app/)
+
+## :memo: License ##
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+
+
+Made with :heart: by <a href="https://github.com/augani" target="_blank">Augustus</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
