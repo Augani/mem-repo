@@ -13,7 +13,7 @@ const getPageData = (rest)=>{
   arr.length = 1000;
   return arr.filter(p=>{
     for(let i=0; i<rest.length; i++){
-      if(p.url.toLowerCase().includes(rest[i]))return true;
+      if(p.url.toLowerCase().includes(rest[i]) || p.emotion.toLowerCase().includes(rest[i]))return true;
     }
   });
 }

@@ -2,6 +2,7 @@ import Head from 'next/head'
 import React, { ChangeEvent } from 'react';
 import { AnimatePresence, motion } from 'framer-motion'
 import { setInterval } from 'timers';
+import Link from 'next/link'
 
 
 const Moods = {
@@ -78,6 +79,8 @@ export default function Home() {
     return () => document.removeEventListener('mousemove', () => console.log('removed'))
   })
 
+ 
+
   const getRandom = (initialX, initialY)=>{
       const randomPositiveX = Math.floor(Math.random() * 1500)
       const randomNegativeX = initialX 
@@ -124,10 +127,18 @@ export default function Home() {
               exit={{ opacity: 0 }}
             >
               <main className='flex flex-col p-2 lg:p-10 items-center lg:items-start'>
-                <h1 className='text-5xl lg:text-8xl tracking-wide font-black text-red-900 mt-52 lg:mt-0  mb-6'>Free 2000+<br />Memojis for<br />Everyone</h1>
+                <h1 className='text-5xl lg:text-8xl tracking-wide font-black text-pink-900 mt-52 lg:mt-0  mb-6'>Free 2000+<br />Memojis for<br />Everyone</h1>
                 <motion.div className="my-4 w-full" key='input'>
                   <input onChange={onChange} placeholder="Search for a mood, skin tone or gender" className='h-14 shadow-2xl w-full lg:w-96 rounded-md text-xl text-red-900 p-2 font-sans' />
                 </motion.div>
+                <div className="flex flex-col  lg:flex-row justify-around items-center ">
+                <Link href="https://drive.google.com/file/d/1KcJFRFNxiEdhAn1hjGbbot-pzdcK1KYF/view?usp=sharing">
+                <button  className="h-12 rounded-md px-6 py-1 shadow-lg bg-pink-900 font-bold text-sm text-gray-50 lg:mr-2 hover:scale-105 transform transition-all duration-75 mb-3 lg:mb-0">Get memojis in Png</button>
+                </Link>
+                <Link href="https://drive.google.com/file/d/1zwX2NfqavBw98lOBaobIXII9assBONoH/view?usp=sharing">
+                <button  className="h-12 rounded-md px-6 py-1 shadow-lg bg-pink-900 font-bold text-sm text-gray-50 hover:scale-105 transform transition-all duration-75">Get memojis in Svg</button>
+                </Link>
+                </div>
               </main>
 
             </motion.div>
