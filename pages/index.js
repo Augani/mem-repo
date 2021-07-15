@@ -94,7 +94,7 @@ export default function Home() {
       }
   }
   return (
-    <div className="flex flex-col w-screen h-screen items-center justify-center min-h-screen py-2 overflow-hidden relative">
+    <div className="flex flex-col w-screen h-screen items-center justify-center min-h-screen py-2 overflow-x-hidden lg:overflow-hidden relative">
       <Head>
         <title>Memojis</title>
         <link rel="icon" href="/favicon.ico" />
@@ -116,7 +116,7 @@ export default function Home() {
         </AnimatePresence>
       </nav>
       <main className="grid grid-cols-1 lg:grid-cols-2 w-full place-content-center">
-        <section className="h-full w-full flex flex-col justify-center">
+        <section className={`h-full w-full flex flex-col ${search?'flex-start':'justify-center'}`}>
           <AnimatePresence >
 
             <motion.div
@@ -126,7 +126,7 @@ export default function Home() {
               animate={{ opacity: 1, x: 0 }}
               exit={{ opacity: 0 }}
             >
-              <main className='flex flex-col p-2 lg:p-10 items-center lg:items-start'>
+              <main className='flex flex-col p-2 lg:p-10 items-center h-full justify-start lg:items-start'>
                 <h1 className='text-5xl lg:text-8xl tracking-wide font-black text-pink-900 mt-52 lg:mt-0  mb-6'>Free 2000+<br />Memojis for<br />Everyone</h1>
                 <motion.div className="my-4 w-full" key='input'>
                   <input onChange={onChange} placeholder="Search for a mood, skin tone or gender" className='h-14 shadow-2xl w-full lg:w-96 rounded-md text-xl text-red-900 p-2 font-sans' />
@@ -147,7 +147,7 @@ export default function Home() {
         </section>
 
         <section className="h-full w-full flex flex-col justify-center items-center">
-            {emojis.length > 0 && <div className="w-5/6 h-96 bg-transparent shadow-2xl rounded-md grid grid-cols-3 lg:grid-cols-6 gap-3 overflow-y-scroll">
+            {emojis.length > 0 && <div className="w-5/6 h-96 bg-transparent  rounded-md grid grid-cols-3 lg:grid-cols-6 gap-3 overflow-y-scroll">
                   {emojis.map((emoji)=>{
                     return (
                       <motion.div   whileHover={{scale: 1.1, transition: { duration: 1 }}} key={emoji.url} className=" h-20" >
